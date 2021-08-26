@@ -1,0 +1,23 @@
+{
+  "name": "nnanh3-msal-browser",
+  "version": "1.0.0",
+  "description": "Thư viện đã custom của azure",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anhncn/msal-brower.git"
+  },
+  "keywords": [
+    "nnanh3",
+    "msal-browser"
+  ],
+  "author": "nnanh3-MISA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anhncn/msal-brower/issues"
+  },
+  "homepage": "https://github.com/anhncn/msal-brower#readme"
+}
